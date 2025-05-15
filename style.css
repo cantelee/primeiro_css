@@ -1,3 +1,9 @@
 .logotipo{
-    height: 150px;
+    height: 180px;
+}
+main{
+    background-color:  white;
+    height: 700px;
+    color: black;
+
 }
